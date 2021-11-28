@@ -11,3 +11,5 @@ Movie 3. Edge of a swarming colony of Serratia marcescens, as described for Movi
 
 Movie 4. As movie 3, with playback speed slowed 50%.
 
+Any issues with playback, the author recomends the use of VLC Player.
+https://www.videolan.org/vlc/
